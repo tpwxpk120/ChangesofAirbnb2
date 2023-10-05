@@ -1,0 +1,9 @@
+#lintings .listing img {
+    width: 50%;
+    height: 50%;
+    object-fit: cover;
+}
+
+.card-hostphotos{
+    display: flex;
+}
